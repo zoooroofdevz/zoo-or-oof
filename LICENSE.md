@@ -1,4 +1,4 @@
-# Zoo or Oof Script [NO KEY] - v4.8.3 Keyless Edition (2026)
+# Zoo or Oof Script [NO KEY] v4.8.3 - ESP, Auto Farm & More! (2026)
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) ![Version](https://img.shields.io/badge/Release-v4.8.3-blue?style=flat-square) ![Verified](https://img.shields.io/badge/Verified-Official-purple?style=flat-square) ![Downloads](https://img.shields.io/badge/Downloads-9.6M-orange?style=flat-square) ![Rating](https://img.shields.io/badge/Rating-4.8%2F5-gold?style=flat-square)
 
